@@ -1,0 +1,5 @@
+# Date_And_Time_Practice_Template
+
+## NOTICE:
+
+FOR EDUCATIONAL USE ONLY. FOR OTHER REASONS WANTED, TELL ME AT 9196022@ecasd.us. 
