@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Display Date and Time</button>
